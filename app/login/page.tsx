@@ -142,7 +142,7 @@ export default function LoginPage() {
           <p className="text-sm text-muted-foreground">
             For demo purposes, you can use any of the pre-created users:
             <br />
-            user1@example.com / password123
+            sushant.verma@example.com / Sushant@123
           </p>
         </CardFooter>
       </Card>
